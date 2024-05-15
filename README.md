@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/shanto" target="blank"><img src="https://img.shields.io/twitter/follow/shanto?logo=twitter&style=for-the-badge" alt="shanto" /></a> </p>
 
-- 🔭 I’m currently working on **IT Training BD**
+- 🔭 I’m currently working on **Qtec Solution Limited**
 
 - 🌱 I’m currently learning **Automation Testing**
 
